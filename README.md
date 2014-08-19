@@ -2,6 +2,8 @@
 
 Put on your sweatband and start snakersizing!
 
+![](http://i.imgur.com/eiz96Qk.gif)
+
 ## Installation
 
 ```ruby
