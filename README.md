@@ -20,3 +20,10 @@ require 'snakersize'
 ```
 
 What a workout! Don't wait, snakersize your strings today!
+
+## Testing and contributing
+
+If you'd like to contribute to the snakersize revolution, go ahead and create
+a new feature branch and submit a pull request with your changes! But wait, don't
+forget to add tests! To run the tests, just do `rake test` within the snakersize
+directory!
