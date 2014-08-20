@@ -6,9 +6,17 @@ Put on your sweatband and start snakersizing!
 
 ## Installation
 
-```ruby
-gem install snakersize
-```
+Add this line to your application's Gemfile:
+
+    gem 'snakersize'
+
+And then execute:
+
+    $ bundle
+
+Or install it yourself as:
+
+    $ gem install snakersize
 
 ## Usage
 
@@ -17,8 +25,8 @@ Give your strings the snakersize they deserve!
 ```ruby
 require 'snakersize'
 
-"A boring string".snakersize
-#=> "a_boring_string"
+"I wish this string were snakersized".snakersize
+# => "i_wish_this_string_were_snakersized"
 ```
 
 What a workout! Don't wait, snakersize your strings today!
